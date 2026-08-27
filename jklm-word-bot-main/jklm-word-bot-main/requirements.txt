@@ -1,0 +1,1 @@
+pip install pyautogui==0.9.53 pynput==1.7.6 pyperclip==1.8.2
