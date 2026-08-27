@@ -1,1 +1,0 @@
-# JKLM-Word-Bomb-AutoType
